@@ -13,6 +13,7 @@
 
 Start training by:
 
+    pip install -r requirements.txt
     python run.py -m AAEME -i ~/data/CBOW.txt ~/data/GloVe.txt -d 300 300 -o ~/results/res.txt
 
 Required parameters:
