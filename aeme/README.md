@@ -17,8 +17,8 @@ Start training by:
 
 Required parameters:
 
-+ __-i__ directory of source embeddings
-+ __-o__ directory of yielded meta-embedding
++ __-i__ path of source embeddings
++ __-o__ path of yielded meta-embedding
 + __-m__ the model to train, within (DAEME, CAEME, AAEME)
 + __-d__ the dimensionality of each source embedding
 
